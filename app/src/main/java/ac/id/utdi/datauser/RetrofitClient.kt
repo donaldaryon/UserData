@@ -1,5 +1,6 @@
 package ac.id.utdi.datauser
 
+membuat objek retrofitClient agar memudahkan kita untuk memanggil retrofit dari mana saja 
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 
