@@ -1,5 +1,7 @@
 package ac.id.utdi.datauser
 
+// pada bagian ini kita akan panggil data di MainActivity dengan menerapkan di recylerview menggunakan
+// adapter yang telah kita buat 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
