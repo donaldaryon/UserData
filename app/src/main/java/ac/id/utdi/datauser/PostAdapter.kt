@@ -1,5 +1,6 @@
 package ac.id.utdi.datauser
 
+// membuat adapter untuk menghubungkan data yang akan ditampilkan pada recyclerview
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
