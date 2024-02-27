@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+<!--     membuat textview -->
     <TextView
         android:id="@+id/tvResponseCode"
         android:layout_width="match_parent"
@@ -18,7 +19,9 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
-
+    
+<!--     membuat recylerview untuk menampung data yang akan di tampilkan  -->
+<!-- membuat recyclerview -->
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rvPost"
         android:layout_width="0dp"
